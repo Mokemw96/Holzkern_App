@@ -1,2 +1,4 @@
-fastapi[standard]
-sqlmodel
+beautifulsoup4==4.14.3
+fastapi==0.136.1
+Requests==2.33.1
+sqlmodel==0.0.38
